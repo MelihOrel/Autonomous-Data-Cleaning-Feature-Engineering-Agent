@@ -1,0 +1,18 @@
+# ── Core LLM & agent framework ───────────────────────────────────────────────
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchainhub>=0.1.15
+openai>=1.30.0
+
+# ── Data science stack ───────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+gower>=0.1.2
+
+# ── Environment & utilities ──────────────────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ── Optional: faster numeric ops (recommended for large datasets) ────────────
+# scipy>=1.12.0
